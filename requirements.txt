@@ -1,0 +1,12 @@
+streamlit
+langchain
+langchain-community
+faiss-cpu
+pypdf
+sentence-transformers
+torch
+torchvision
+torchaudio
+torchxrayvision
+opencv-python
+numpy
